@@ -1,0 +1,27 @@
+.col-1{
+    height: 60px!important;
+    border: 3px solid white!important;
+}
+.col-4{
+    height: 80px!important;
+    border: 3px solid white;!important;
+}
+.col-8{
+    height: 80px!important;
+    border: 3px solid white;!important;
+}
+.col-6{
+    height: 80px!important;
+    border: 3px solid white;!important;
+}
+.col-12{
+    height: 80px!important;
+    border: 3px solid white;!important;
+}
+.ctn{
+    border-radius: 10px!important;
+}
+
+
+
+
